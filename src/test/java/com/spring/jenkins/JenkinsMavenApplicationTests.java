@@ -8,6 +8,7 @@ class JenkinsMavenApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
