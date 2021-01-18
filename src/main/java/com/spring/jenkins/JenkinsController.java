@@ -9,6 +9,6 @@ public class JenkinsController {
 	
 	@GetMapping
 	public String getstartUp() {
-		return "Maven Project Build Successfully!!!!!!!!!";
+		return "Maven Project Build Successfully!!!!!!!!!!!";
 	}
 }
